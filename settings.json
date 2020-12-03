@@ -1,0 +1,32 @@
+{
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "window.zoomLevel": -2,
+    "norminette.command": "norminette",
+    "norminette.fileregex": "^ft.*\\.[ch]$",
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.rulers": [80],
+    "[c]": {
+
+        "editor.tabSize": 4,
+        "editor.insertSpaces": false,
+        "files.insertFinalNewline": true
+
+    },
+    "files.associations": {
+        "*.h": "c"
+    },
+    "[makefile]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": false,
+        "files.insertFinalNewline": true
+    },
+    "42header.username": "mhori",
+    "42header.email": "mhori@student.42tokyo.jp",
+
